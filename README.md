@@ -54,3 +54,4 @@ Everything from basic, plus Tdarr transcoding, Recyclarr quality profiles, Komet
 ![Plex](https://img.shields.io/badge/-Plex-EBAF00?logo=plex&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?logo=jellyfin&logoColor=white)
 
+
