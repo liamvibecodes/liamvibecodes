@@ -53,3 +53,4 @@ Everything from basic, plus Tdarr transcoding, Recyclarr quality profiles, Komet
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
 ![Plex](https://img.shields.io/badge/-Plex-EBAF00?logo=plex&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?logo=jellyfin&logoColor=white)
+
